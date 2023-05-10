@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+ul li a{text-decoration: none;
+    color: black;
+padding: 0 13px;}
+ul li{
+    list-style: none;
+   
+}
+#header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px 0;
+}
+#header nav ul{
+    display: flex;
+}
+.left{
+    float: left;
+  margin: auto;
+  padding: 0 220px 0 0;
+}
+.right{
+    float: right;
+  
+}
+.bobby{
+    display: flex;
+}
+.left h6{
+    font-size: 18px;
+    font-weight: 300;
+}
+.left h1{
+    font-size: 45px;
+}
+.left p{
+    font-size: 18px;
+    font-weight: 400;
+    padding: 15px 0 25px 0;
+}
+.left button{
+    border: none;
+   background-color:#62bdfc;
+  color: azure;
+  width: 140px;
+  height: 40px;
+}
+.two{
+    text-align: center;
+    padding: 60px 0 0 0;
+}
+.two p{
+    padding: 0 400px ;
+}
+.items{
+    display: flex;
+  flex-wrap:nowrap;
+  padding: 40px 0;
+ 
+   
+}
+.itemss{
+    display: flex;
+   
+   
+  
+}
+.croww{
+    width: 80%;
+    margin: auto;
+}
+.item{
+    width: 33.3%;
+
+}
+.itemm{
+    width: 33.3%;
+    padding: 0 15px 0 15px;
+}
+.itemmm{
+    width: 33.3%;
+}
+.itemmmm{
+    width: 33.3%;
+}
+.itemmmmm{
+    width: 33.3%;
+    padding: 0 15px 0 15px;
+}
+.itemmmmmm{
+    width: 33.3%;
+}
+.items h2{
+    padding: 20px 40px;
+}
+.itemss h2{
+    padding: 20px 40px;
+}
+.items i{
+    padding: 0 75px ;
+    font-size: 35px;
+ 
+}
+.itemss i{
+    padding:0 75px;
+    font-size: 35px;
+}
+.twopi{
+    display: flex;
+}
+.hekk{
+    padding: 150px 150px 0 250px;
+}
+.hekk h1{
+    padding: 25px 0;
+}
+.hekk p{
+    padding: 0 0 23px 0;
+}
+.hekk button{
+    border: none;
+    background-color:#62bdfc ;
+    width: 145px;
+    height: 40px;
+    color: azure;
+}
